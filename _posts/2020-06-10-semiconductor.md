@@ -9,6 +9,6 @@ catalog:   true
 tags: semiconductor   
 - 
 ---
-# 固体量子理论初步
+# 《半导体物理与器件》常用公式总结
 ## 允带和禁带
 
