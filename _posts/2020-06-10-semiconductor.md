@@ -1,14 +1,8 @@
 ---
 layout: post
-title: My First Blog     
-subtitle:
-date: 2020.06.10
-author: BoyanWang
-
-catalog:   true
-tags: semiconductor   
-- 
+title:  "My First Blog!"
+date:   2020.06.10 
+categories: jekyll update
 ---
 # 《半导体物理与器件》常用公式总结
 ## 允带和禁带
-
